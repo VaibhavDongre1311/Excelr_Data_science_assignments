@@ -12,7 +12,7 @@
 
 ### [Basic Statistics Level 2 SET 4](https://github.com/VaibhavDongre1311/Assignment_2_set_4)
 
-### [Hypothesis Testing](https://github.com/MoinDalvs/Assignment_Hypothesis_test)
+### [Hypothesis Testing](https://github.com/VaibhavDongre1311/Hypothesis_Testing)
 
 ### [Simple Linear Regression Delivery Time](https://github.com/VaibhavDongre1311/Simple_linear_regrssion1)
 
